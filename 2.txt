@@ -1,3 +1,9 @@
 ehiuiuhuhfuihui
+<<<<<<< HEAD
 shjfjhsdfg
 dfjsfh
+=======
+hfvgshcjh
+hvcvuxgdujj
+jdhjb
+>>>>>>> ani
